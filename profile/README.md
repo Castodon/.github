@@ -12,5 +12,6 @@
 
 Projects:
 
-- [castodon](https://github.com/castodon/castodon)
+- [Castodon](https://github.com/castodon/castodon)
 - [CLA](https://github.com/Castodon/cla)
+- [Docs](https://github.com/Castodon/castodon-docs)
